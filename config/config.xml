@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>    
+    <category name="appconfig">
+        <property name="LB_NODE" value="NODE_DEV"/>
+        <property name="REJECT_ACC" value=""/>
+        <property name="SV_ALERT" value="0"/>
+        <property name="NODE_DEV" value="0"/>
+        <property name="BUID_CDR" value="0"/>
+    </category>
+    <category name="EMAIL">
+        <property name="MAIL_USER" value="abc@abc.abc" />
+        <property name="MAIL_PASS" value="kd#ks89kjdAjd7" />
+        <property name="MAIL_HOST" value="abc.abc.abc" />
+        <property name="MAIL_DEBUG" value="false" />
+    </category>
+    <category name="webService">
+        <property name="contextPath" value="/service" />
+        <property name="port" value="9937" />
+    </category>  
+</properties>
+

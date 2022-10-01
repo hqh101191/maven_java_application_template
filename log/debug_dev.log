@@ -1,0 +1,50 @@
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[42] Config File:config.xml
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[46] trying to load file config
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[48] file config successfully processed
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_USER: abc@abc.abc
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_PASS: kd#ks89kjdAjd7
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_HOST: abc.abc.abc
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_DEBUG: false
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] LB_NODE: NODE_DEV
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] REJECT_ACC: 
+2022-10-01 11:20:56 [INFO ] DEBUG_LOG:17: - WebServer.class:[43] Start Restful Web Server: contextPath: /service | Port: 9937
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[42] Config File:config.xml
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[46] trying to load file config
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[48] file config successfully processed
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_USER: abc@abc.abc
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_PASS: kd#ks89kjdAjd7
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_HOST: abc.abc.abc
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_DEBUG: false
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] LB_NODE: NODE_DEV
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] REJECT_ACC: 
+2022-10-01 11:23:35 [INFO ] DEBUG_LOG:17: - WebServer.class:[43] Start Restful Web Server: contextPath: /service | Port: 9937
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[42] Config File:config.xml
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[46] trying to load file config
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[48] file config successfully processed
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_USER: abc@abc.abc
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_PASS: kd#ks89kjdAjd7
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_HOST: abc.abc.abc
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_DEBUG: false
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] LB_NODE: NODE_DEV
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] REJECT_ACC: 
+2022-10-01 11:24:53 [INFO ] DEBUG_LOG:17: - WebServer.class:[43] Start Restful Web Server: contextPath: /service | Port: 9937
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[42] Config File:config.xml
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[46] trying to load file config
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[48] file config successfully processed
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_USER: abc@abc.abc
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_PASS: kd#ks89kjdAjd7
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_HOST: abc.abc.abc
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_DEBUG: false
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] LB_NODE: NODE_DEV
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] REJECT_ACC: 
+2022-10-01 11:27:40 [INFO ] DEBUG_LOG:17: - WebServer.class:[43] Start Restful Web Server: contextPath: /service | Port: 9937
+2022-10-01 11:28:00 [INFO ] DEBUG_LOG:17: - MyConfig.class:[42] Config File:config.xml
+2022-10-01 11:28:00 [INFO ] DEBUG_LOG:17: - MyConfig.class:[46] trying to load file config
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[48] file config successfully processed
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_USER: abc@abc.abc
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_PASS: kd#ks89kjdAjd7
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_HOST: abc.abc.abc
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] MAIL_DEBUG: false
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] LB_NODE: NODE_DEV
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - MyConfig.class:[123] REJECT_ACC: 
+2022-10-01 11:28:01 [INFO ] DEBUG_LOG:17: - WebServer.class:[43] Start Restful Web Server: contextPath: /service | Port: 9937
